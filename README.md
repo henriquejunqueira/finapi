@@ -7,7 +7,7 @@
 - Iniciando o projeto criando o package.json: `$ yarn init -y`
 - Instalando o express: `$ yarn add express`
 - Instalação do nodemon como dependência de desenvolvimento: `$ yarn add nodemon -D`
-- Instalação da biblioteca UUID para geração de uuid: `$ yarn add uuid`
+- Instalação da biblioteca UUID para geração de id: `$ yarn add uuid`
 
 ### Requisitos do projeto
 
